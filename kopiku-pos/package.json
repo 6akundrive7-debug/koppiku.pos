@@ -1,9 +1,0 @@
-{
-  "name": "kopiku-pos",
-  "version": "1.0.0",
-  "description": "Kasir Kopiku - POS dengan database file JSON (tanpa dependency)",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  }
-}
